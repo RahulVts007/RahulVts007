@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🎓 Final year B.Tech Computer Science student at **J.C. Bose University of Science & Technology, YMCA**
-- 🛠 Building full-stack web apps with the **PERN stack** — PostgreSQL, Express, React, Node.js
+- 🛠 Building full-stack web apps with the **PERN** and **MERN** stacks
 - 🔍 Currently working on **RoastMyCode** — an AI-powered code review tool
 - ⚔️ Grinding **NeetCode 150** in C++ on the side
 - 📬 Open to **internship opportunities** — reach out anytime
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
