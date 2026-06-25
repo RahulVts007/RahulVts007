@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=600&color=6BEEF7&background=00000000&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Rahul+Vats+👋;PERN+Stack+Developer;Building+stuff+that+(mostly)+works;Coffee+%3E+Sleep+%3E+Code+%3E+Repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=600&color=6BEEF7&background=00000000&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Rahul+Vats+👋;MERN+Stack+Developer;Building+stuff+that+(mostly)+works;Coffee+%3E+Sleep+%3E+Code+%3E+Repeat" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -58,30 +58,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulVts007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulVts007&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulVts007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-vats-dev">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rahulvts007@gmail.com">
+  <a href="mailto:rahulvts89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/RahulVts007">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
